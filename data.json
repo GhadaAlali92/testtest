@@ -8,7 +8,7 @@
         "start": "05/07/2024",
         "end": "24/09/2024",
         "facilities": ["dog", "wc", "diaper"],
-        "location":""
+        "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6"
     },
     {
         "id": "event2",
@@ -19,7 +19,7 @@
         "start": "05/07/2024",
         "end": "24/09/2024",
         "facilities": ["dog", "wc", "diaper"],
-        "location":""
+        "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6"
     },
     {
         "id": "event3",
@@ -30,7 +30,7 @@
         "start": "05/07/2024",
         "end": "24/09/2024",
         "facilities": ["dog", "wc", "diaper", "disabled"],
-        "location":""
+        "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6"
     },
     {
         "id": "event4",
@@ -41,6 +41,6 @@
         "start": "05/07/2024",
         "end": "24/09/2024",
         "facilities": ["dog", "wc", "diaper", "disabled"],
-        "location":""
+        "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6"
     } 
 ]
