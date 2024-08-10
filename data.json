@@ -8,7 +8,9 @@
         "start": "05-Jul",
         "end": "24-Sep",
         "facilities": ["dog", "wc", "diaper"],
-        "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6"
+        "location": "https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6",
+        "type": "cycling",
+        "for": "family"
     },
     {
         "id": "event2",
@@ -19,7 +21,9 @@
         "start": "05-Jul",
         "end": "24-Sep",
         "facilities": ["dog", "wc", "diaper"],
-        "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6"
+        "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6",
+        "type": "horse_riding",
+        "for": "family"
     },
     {
         "id": "event3",
@@ -30,7 +34,9 @@
         "start": "05-Jul",
         "end": "24-Sep",
         "facilities": ["dog", "wc", "diaper", "disabled"],
-        "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6"
+        "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6",
+        "type": "water",
+        "for": "family"
     },
     {
         "id": "event4",
@@ -41,6 +47,8 @@
         "start": "05-Jul",
         "end": "24-Sep",
         "facilities": ["dog", "wc", "diaper", "disabled"],
-        "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6"
+        "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6",
+        "type": "surfing",
+        "for": "other"
     } 
 ]
