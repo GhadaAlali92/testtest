@@ -10,7 +10,7 @@
         "facilities": ["dog", "wc", "diaper"],
         "location": "https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6",
         "type": "cycling",
-        "for": "family"
+        "group": "family"
     },
     {
         "id": "event2",
@@ -23,7 +23,7 @@
         "facilities": ["dog", "wc", "diaper"],
         "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6",
         "type": "horse_riding",
-        "for": "family"
+        "group": "family"
     },
     {
         "id": "event3",
@@ -36,7 +36,7 @@
         "facilities": ["dog", "wc", "diaper", "disabled"],
         "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6",
         "type": "water",
-        "for": "family"
+        "group": "family"
     },
     {
         "id": "event4",
@@ -49,6 +49,6 @@
         "facilities": ["dog", "wc", "diaper", "disabled"],
         "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6",
         "type": "surfing",
-        "for": "other"
+        "group": "other"
     } 
 ]
