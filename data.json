@@ -50,18 +50,5 @@
         "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6",
         "type": "surfing",
         "group": "other"
-    },
-     {
-        "id": "event5",
-        "name": "test",
-        "desc": "Tag på cykelferie i Sønderjylland og få en oplevelse for livet. der passer dig .Du kan læse om havd der er inkluderet ved at klikke på de enkelte ophold",
-        "img": "https://s3-alpha-sig.figma.com/img/ff76/a46e/a4e793cc6945962ca14be7d2cbe94420?Expires=1723420800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=BNEzC8dKbRcKoBDjv~ZU~~LgZ0a3NVUqxiXTG4EjvDFj~6qYYiy3Au9fgdpYgYOGrHCoH1Cj82oRWD0o5Vbs9QIshKk9Ekind8PpFoVituizMA7ZfZzFkAvuHaKcxv3UYORTiSEtFp1XOFz3U384WwdKO3Gduggo6ShjJHzcmZjXDft87RyejiUpTJdMMAnYrxBt8lIoEldqM~CI7g5di7Jv9J1qetmLhg4Q-b008O36Z-NtFqVFQtvw8GKm-~AI80r5VQ3IfUBoME71fAks8H~WY2MIcw2ubhjAVQafGN4JgfdFAVQ9A0f1dC4PyFaUrIusksgntOEhhJ22qN4Z2Q__",
-        "city": "Sønderborg",
-        "start": "05-Jul",
-        "end": "24-Sep",
-        "facilities": ["dog", "wc", "diaper", "disabled"],
-        "location":"https://maps.app.goo.gl/LLEbGZPaoEwSbUtP6",
-        "type": "surfing",
-        "group": "other"
-    } 
+    }
 ]
